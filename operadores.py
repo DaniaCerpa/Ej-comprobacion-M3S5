@@ -1,6 +1,6 @@
 numero = 5
-x = 1
+factorial = 1
 
-for var in  range (numero, 0, -1):
-    x = x *var
-print (x)
+for num in  range (numero, 0, -1):
+    factorial = factorial *num
+print (factorial)
